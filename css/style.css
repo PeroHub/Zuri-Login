@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 30px;
+}
+
+.nav-button-container {
+    display: flex;
+    margin: 0 40px
+}
+
+.top {
+    margin: 0 15px;
+}
+
+.weight {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e7332b;
+    padding: 10px;
+    border-radius: 30px;
+    width: 100px;
+    height: 42px;
+    margin: 0 10px;
+    color: #fff;
+}
+
+.weight:hover {
+    background-color: ;
+}
+
+.text {
+    color: gray;
+}
+
+.icon {
+    position: relative;
+    top: 15px;
+    
+}
+
+.border {
+    border-bottom: 1px solid rgb(218, 217, 217);
+    box-shadow: 10px 10px solid gray;
+    
+}
+
+header. {
+    box-shadow: 10px solid gray;
+}
+
+main {
+    background-color: rgb(241, 241, 241);
+    height: 595px;
+}
+
+.login-form {
+    
+    
+    margin: 0 auto;
+    position: relative;
+    top: 200px;
+    
+}
+
+ h1, p {
+    text-align: center;
+}
+
+.form-content {
+    border: 1px solid rgb(241, 241, 241);
+
+}
+
+.form-content {
+    margin: 0 auto;
+    width: 450px;
+    height: 330px;
+    position: relative;
+    top: 140px;
+    padding: 45px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 10px 10px rgb(241, 241, 241);
+}
+
+input {
+    display: block;
+}
+
+.width {
+    border: 1px solid;
+    width: 350px;
+    height: 40px;
+}
+
+.inputmargin {
+    margin-top: 20px;
+}
+
+.forgot {
+    text-align: center;
+}
+
+.button {
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    color: #fff;
+}
+
+.label {
+    display: inline;
+}
+
+.tezt {
+    position: relative;
+    top: 120px;
+}
+
+
+
+
